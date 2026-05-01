@@ -1,2 +1,0 @@
-# LadypWeb
-initial commit
